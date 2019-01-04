@@ -1,0 +1,3 @@
+The download speed is {{download_speed}}
+The ping is {{ping}}
+The upload speed is {{upload_speed}}
